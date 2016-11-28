@@ -1,0 +1,11 @@
+{
+  "name": "simple-emitter",
+  "version": "1.0.0",
+  "description": "简易版的事件模型(支持链式调用)",
+  "main": "app.js",
+  "scripts": {
+  },
+  "keywords": ["Emitter"],
+  "author": "LY",
+  "license": "ISC"
+}
